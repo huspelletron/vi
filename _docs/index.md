@@ -12,10 +12,10 @@ The Pelletron Accelerator was installed and commissioned in 2011 and experiments
 ![Photo of HUS Accelerator](/Photos/accel1.png)
 *HUS Pelletron Accelerator Facility*
 
-The accelerated ion beam can be delivered into two application beamlines: The IBA beamline and the MeV-ion implantation beamline. The <a href="https://maygiatoc.com/docs/implantbeamline/">IBA beamline</a> is equiped with the NEC RC43 analytical endstation, which is designed for analytical applications using Ion Beam Analysis techniques, namely the <a href="https://maygiatoc.com/docs/rbs/">Rutherford Backscattering Spectrometry (RBS)</a> and Channeling analysis, Elastic Recoil Detection Analysis (ERDA), <a href="https://maygiatoc.com/docs/nuclear/">Nuclear Reaction Analysis (NRA)</a> and <a href="https://maygiatoc.com/docs/pixe/">Particle-induced X-rays Emission (PIXE)</a>. The <a href="https://maygiatoc.com/docs/ibabeamline/">Ion implantation beamline</a> is equiped with a Raster Scanner, a beam profile monitor and precise current monitor system. The Raster Scanner system uses a fast changing electrostatic field to sweep the MeV ion beam (delivered by the accelerator) along X-Y axes and produce various implantation pattern over a large area (typically 10 cm x 10 cm) of the implantation target.
+The accelerated ion beam can be delivered into two application beamlines: The IBA beamline and the MeV-ion implantation beamline. The <a href="docs/implantbeamline/">IBA beamline</a> is equiped with the NEC RC43 analytical endstation, which is designed for analytical applications using Ion Beam Analysis techniques, namely the <a href="docs/rbs/">Rutherford Backscattering Spectrometry (RBS)</a> and Channeling analysis, Elastic Recoil Detection Analysis (ERDA), <a href="docs/nuclear/">Nuclear Reaction Analysis (NRA)</a> and <a href="docs/pixe/">Particle-induced X-rays Emission (PIXE)</a>. The <a href="docs/ibabeamline/">Ion implantation beamline</a> is equiped with a Raster Scanner, a beam profile monitor and precise current monitor system. The Raster Scanner system uses a fast changing electrostatic field to sweep the MeV ion beam (delivered by the accelerator) along X-Y axes and produce various implantation pattern over a large area (typically 10 cm x 10 cm) of the implantation target.
 
 ![Crystal Channeling](/Photos/accel2c.png)
-Two-dimensional plot of channeling crystal image produced on-line while performing RBS-channeling analysis in IBA beamline (see <a href="https://maygiatoc.com/docs/rbs/">here</a> for more details of RBS/Channeling analysys).
+Two-dimensional plot of channeling crystal image produced on-line while performing RBS-channeling analysis in IBA beamline (see <a href="docs/rbs/">here</a> for more details of RBS/Channeling analysys).
 
 Maintaining good vacuum in the entire beam line is required.  Pump stations comprising of rotary pump and turbo molecular pump are installed along the beam path to maintaince ultra high vacuum down to 10<sup>-8</sup> - 10<sup>-7</sup> Torr.
 
@@ -30,5 +30,5 @@ Besides the routine operation of the accelerator, a major effort of the machine 
 ![Accelerator Tank in maintenance](/Photos/accel3.png)
 *The accelerator tank in maintenance (2014)*
 
-The beam time for HUS Pelletron Accelerator are flexible and accessible for external users. Just send us your requests <a href="https://maygiatoc.com/docs/contact/">here</a> for beam time proposals and further inquiries. To see our current beam time schedule, click <a href="https://maygiatoc.com/docs/beamtime/">here</a>.
+The beam time for HUS Pelletron Accelerator are flexible and accessible for external users. Just send us your requests <a href="docs/contact/">here</a> for beam time proposals and further inquiries. To see our current beam time schedule, click <a href="docs/beamtime/">here</a>.
 
