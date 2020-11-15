@@ -35,7 +35,7 @@ layout: default
         <div class="col-sm-4">
             <h1 class="text-center"><i class="fa fa-code-fork" aria-hidden="true"></i></h1>
             <h3 class="text-center">Application Beamlines</h3>
-            <p>Two beamlines are available: <a href="https://maygiatoc.com/docs/implantbeamline/"> Ion Implantation beamline</a>  and <a href="https://maygiatoc.com/docs/ibabeamline/"> Ion Beam Analysis beamline</a>. Applications of these beamlines includes: <a href="https://maygiatoc.com/docs/rbs/"> Rutherford Backscattering Spectrometry (RBS) and Channeling analysis</a>, Elastic Recoil Detection Analysis (ERDA), <a href="https://maygiatoc.com/docs/nuclear/">Nuclear Reaction Analysis (NRA)</a>, <a href="https://maygiatoc.com/docs/pixe/">Particle-induced X-rays Emission Analysis (PIXE)</a> and <a href="docs/mevimplant/">MeV Ion Beam Implantation</a>.</p>
+            <p>Two beamlines are available: <a href="https://maygiatoc.com/docs/implantbeamline/"> Ion Implantation beamline</a>  and <a href="https://maygiatoc.com/docs/ibabeamline/"> Ion Beam Analysis beamline</a>. Applications of these beamlines includes: <a href="https://maygiatoc.com/docs/rbs/"> Rutherford Backscattering Spectrometry (RBS) and Channeling analysis</a>, Elastic Recoil Detection Analysis (ERDA), <a href="https://maygiatoc.com/docs/nuclear/">Nuclear Reaction Analysis (NRA)</a>, <a href="https://maygiatoc.com/docs/pixe/">Particle-induced X-rays Emission Analysis (PIXE)</a> and <a href="https://maygiatoc.com/docs/mevimplant/">MeV Ion Beam Implantation</a>.</p>
         </div>
     </div>
     <hr>
