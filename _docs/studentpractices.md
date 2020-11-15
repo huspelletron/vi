@@ -5,7 +5,7 @@ permalink: /docs/studentpractices/
 
 For years, our facility offers students many chances to experience an accelerator facility:  beam optics, vacuum components and ion sources
 
-Student experiments: <a href="https://maygiatoc.com/assets/exp_rbs_vi.pdf"> Rutherford experiment</a>  , <a href="https://maygiatoc.com/assets/exp_pixe_en.pdf">PIXE analysis of thin and thick samples</a>.
+Student experiments: <a href="assets/exp_rbs_vi.pdf"> Rutherford experiment</a>  , <a href="assets/exp_pixe_en.pdf">PIXE analysis of thin and thick samples</a>.
 
 Numbers of undergraduate essays and master’s theses have been done in the laboratory.
 
