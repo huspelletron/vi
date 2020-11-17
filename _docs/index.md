@@ -1,5 +1,5 @@
 ---
-title: General Information
+title: Thông tin chung
 permalink: /docs/home/
 redirect_from: /docs/index.html
 ---

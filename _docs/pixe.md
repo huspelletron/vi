@@ -1,5 +1,5 @@
 ---
-title: PIXE Analysis
+title: Phân tích PIXE
 permalink: /docs/pixe/
 ---
 

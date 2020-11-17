@@ -1,5 +1,5 @@
 ---
-title: RBS Analysis
+title: Phân tích RBS
 permalink: /docs/rbs/
 ---
 

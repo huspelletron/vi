@@ -1,5 +1,5 @@
 ---
-title: Facility
+title: Cơ sở vật chất
 permalink: /docs/facilitypictures/
 ---
 

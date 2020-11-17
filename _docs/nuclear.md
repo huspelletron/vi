@@ -1,5 +1,5 @@
 ---
-title: Nuclear Physics
+title: Vật lý hạt nhân
 permalink: /docs/nuclear/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Education Activities
+title: Đào tạo
 permalink: /docs/studentpractices/
 ---
 

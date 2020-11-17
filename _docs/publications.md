@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Công bố khoa học
 permalink: /docs/publications/
 ---
 

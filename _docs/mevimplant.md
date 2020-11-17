@@ -1,5 +1,5 @@
 ---
-title: MeV Ion Implantation
+title: Cấy ion
 permalink: /docs/mevimplant/
 ---
 

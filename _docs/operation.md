@@ -1,5 +1,5 @@
 ---
-title: Operation Records
+title: Giờ vận hành
 permalink: /docs/operation/
 ---
 

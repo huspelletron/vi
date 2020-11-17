@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: Về chúng tôi
 permalink: /docs/about/
 ---
 

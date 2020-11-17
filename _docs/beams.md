@@ -1,5 +1,5 @@
 ---
-title: Available Beams
+title: Danh sách các chùm ion
 permalink: /docs/beams/
 ---
 

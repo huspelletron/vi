@@ -1,5 +1,5 @@
 ---
-title: Contact us
+title: Liên hệ
 permalink: /docs/contact/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Activities
+title: Các hoạt động
 permalink: /docs/activitiespictures/
 ---
 

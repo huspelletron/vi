@@ -1,5 +1,5 @@
 ---
-title: IBA Beamline
+title: Kênh phân tích IBA
 permalink: /docs/ibabeamline/
 ---
 

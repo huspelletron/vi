@@ -1,5 +1,5 @@
 ---
-title: Implantation Beamline
+title: Kênh cấy ion
 permalink: /docs/implantbeamline/
 ---
 The Implant Endstation is a manual single wafer handler. The chamber is designed to ensure accurate dose monitoring with uniform deposition.

@@ -1,5 +1,5 @@
 ---
-title: Beam Time Schedule
+title: Lịch chạy máy
 permalink: /docs/beamtime/
 ---
 
