@@ -1,5 +1,5 @@
 ---
-title: Đào tạo
+title: Công tác đào tạo
 permalink: /docs/studentpractices/
 ---
 
