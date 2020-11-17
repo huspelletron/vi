@@ -2,8 +2,8 @@
 title: HUS Pelletron
 email: your-email@domain.com
 description: >
-  Official website of the HUS Pelletron Accelertator Laboratory.
-lang: en-US
+  Website phòng thí nghiệm HUS Pelletron.
+lang: vi
 
 baseurl: "/vi" # the subpath of your site, e.g. /blog/
 url: https://maygiatoc.com # the base hostname & protocol for your site
