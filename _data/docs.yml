@@ -1,4 +1,4 @@
-- title: Useful Information
+- title: Các thông tin cơ bản
   docs:
   - home
   - beams
@@ -7,19 +7,19 @@
   - beamtime
   - about
   - contact
-- title: Research and Applications
+- title: Các nghiên cứu và ứng dụng
   docs:
   - rbs
   - pixe
   - nuclear
   - mevimplant
   - studentpractices
-- title: Achievements
+- title: Các kết quả đạt được
   docs:
   - operation
   - publications
 
-- title: Photo Gallery
+- title: Thư viện ảnh
   docs:
   - facilitypictures
   - activitiespictures
