@@ -3,19 +3,19 @@ title: Công bố khoa học
 permalink: /docs/publications/
 ---
 
-##### List of published research works which ultilize ion beams from the HUS Pelletron Accelerator.
+##### Danh sách các công bố khoa học có sử dụng chùm tia từ máy gia tốc HUS Pelletron.
 
 <div class="table-2">
 	<table width="100%">
 		<thead>
 			<tr>
-				<th align="left">No.</th>
-				<th align="left">Title</th>
-				<th align="left">Author(s)</th>
-				<th align="left">Journal</th>
-				<th align="left">Vol.; Number; Page</th>
-				<th align="left">Year</th>
-				<th align="left">Publisher</th>
+				<th align="left">STT</th>
+				<th align="left">Tiêu đề</th>
+				<th align="left">Tác giả</th>
+				<th align="left">Tạp chí</th>
+				<th align="left">Quyển; Số; Trang</th>
+				<th align="left">Năm</th>
+				<th align="left">Nhà xuất bản</th>
 			</tr>
 		</thead>
 		<tbody id="results"></tbody>
