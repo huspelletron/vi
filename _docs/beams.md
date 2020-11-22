@@ -28,5 +28,5 @@ Tiết diện chùm tia điển hình đổi với kênh cấy ion IBA:  10 cm x
 |<sup>107,109</sup>Ag|0.8 - 3.4 MeV|1-1000 nA|SNICS|
 |<sup>104-106,108,110</sup>Pd(mixed)|0.8 - 3.4 MeV|1-1000 nA|SNICS|
 |<sup>197</sup>Au|0.8 - 3.4 MeV|1-1000 nA|SNICS|
-|Others (On request)|0.8 - 3.4 MeV|1-1000 nA|SNICS|
+|Loại khác (theo yêu cầu)|0.8 - 3.4 MeV|1-1000 nA|SNICS|
 
