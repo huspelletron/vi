@@ -18,8 +18,6 @@ Các chùm ion được gia tốc có thể được đưa tới hai kênh ra �
 ![Crystal Channeling](/Photos/accel2c.png)
 Hình ảnh hai chiều online về hiệu ứng phân kênh (channeling) được xây dựng khi tiến hành phép phân tích RBS-channeling trên kênh phân tích IBA (Xem <a href="https://maygiatoc.com/vi/docs/rbs/">tại đây</a> để tìm hiểu thêm về phân tích RBS/Channeling).
 
-Maintaining good vacuum in the entire beam line is required.  Pump stations comprising of rotary pump and turbo molecular pump are installed along the beam path to maintaince ultra high vacuum down to 10<sup>-8</sup> - 10<sup>-7</sup> Torr.
-
 Để đảm bảo việc chất lượng của chùm tia được gia tốc, môi trường chân không cao cần phải được duy trì trong ống gia tốc. Các trạm bơm chân không bao gồm bơm quay sơ cấp (rotary pump) và bơm thứ cấp (turbo molecular pump) được bố trí dọc them đường đi của chùm tia để đảm bảo chân không siêu cao từ 10<sup>-8</sup> - 10<sup>-7</sup> Torr.
 
 ![Schematic layout of HUS Pelletron Accelerator displayed in control computer](/Photos/accel2.png)
